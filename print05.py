@@ -1,6 +1,6 @@
 print("      |\__/|  ")
 print("      )    (  ")
-print("     =\    / =")
+print("     =\    /=")
 print("       )  (   ")
 print("_____ /    \ _____")
 print("|     |    |     |")
